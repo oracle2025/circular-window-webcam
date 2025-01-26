@@ -13,3 +13,8 @@ finished the details manually
 
 Use Case: I use it to show a circle of my talking head in a corner of the
 screen, when I record a screen video of me explaining something.
+
+License: The Unlicense
+
+It is a trivial tool that I created in a few days, and it can propably be
+recreated by anyone familiar with Qt and C++ in a small amount of time.
